@@ -44,7 +44,7 @@ Example from Twitter: Tweet frequency and content can vary depending on events, 
 **Veracity:** The quality of the data. It addresses data uncertainty, which can be caused by inconsistency, structure, or availability of data.
 Example from Twitter: Not every tweet is relevant or accurate. Bots, spam content, or misleading information could be present. It is critical for meaningful analysis to ensure the data's authenticity and accuracy.
 
-**Value:** It is  ****defined as our ability to convert data into value. It is the ultimate goal of big data—we collect and analyze data to gain insights, make better decisions, or create better products/services.
+**Value:** It is defined as our ability to convert data into value. It is the ultimate goal of big data—we collect and analyze data to gain insights, make better decisions, or create better products/services.
 Example from Twitter: The goal would be to extract meaningful patterns about information propagation, influencer impact, or even human behavior from the vast sea of tweets and engagement data. (GeeksforGeeks, 2023b)
 
 
